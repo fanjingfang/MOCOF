@@ -11,9 +11,9 @@ This repository contains the source code and data for reproducing the results pr
 
 **"Modularity–controllability coupling reveals optimal regulation of information diffusion"**
 
-*Xiaojie Chen†, Meiling Xie†, Jun Meng, Sheng Fang, Xiaosong Chen, Jürgen Kurths, Jan Nagler, Jingfang Fan*
+Xiaojie Chen, Meiling Xie, Jun Meng, Sheng Fang, Xiaosong Chen, Jürgen Kurths, Jan Nagler, Jingfang Fan
 
-(† These authors contributed equally)
+
 
 ## Overview
 
